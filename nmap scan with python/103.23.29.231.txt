@@ -1,0 +1,5 @@
+The host is: up.
+The port 80 is: open.
+The method of scanning is: syn-ack.
+
+Report generated 19-04-28_09:54:37 GMT
